@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+main {
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  width: 80%;
+  max-width: 1128px;
+  display: flex;
+  margin: 0 auto;
+  padding: 3em;
+}
+
+h1,
+h3 {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h3 {
+  font-size: 36px;
+}
+
+h5 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+  color: #000;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+}
+
+header {
+  background-color: #f3eed9;
+  color: #824936;
+  padding: 5em;
+}
